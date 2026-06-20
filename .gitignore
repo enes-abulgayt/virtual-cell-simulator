@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.matplotlib/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated project artifacts
+data/*
+!data/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+results/*
+!results/.gitkeep
+
+# Streamlit
+.streamlit/secrets.toml
