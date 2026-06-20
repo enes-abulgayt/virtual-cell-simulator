@@ -159,7 +159,7 @@ virtual-cell-simulator/
 Python 3.10 or newer is recommended.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/enes-abulgayt/virtual-cell-simulator.git
 cd virtual-cell-simulator
 python -m venv .venv
 ```
@@ -290,6 +290,3 @@ experiments in stages:
 9. Report uncertainty and validate across datasets rather than only random
    cell splits.
 
-## License
-
-Choose a license appropriate for your repository, such as MIT.
